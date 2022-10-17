@@ -4,6 +4,10 @@
 Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](https://www.youtube.com/channel/UCIu-3z3pQGcmtRzfi8NSVuA&) de Sylvain
 
 ### Qui sont-ils ?
+Sylvain : 
+![alt text](https://cdn-s-www.leprogres.fr/images/7EBF8F09-4BCA-4198-84B7-56F8A6B3E1AF/NW_detail/title-1577463349.jpg "Sylvain")
+Pierre :
+![alt text](https://media1.tenor.com/images/a4bb1bff9b07dc65921805c534730147/tenor.gif?itemid=19173801 "Pierre")
 <p>Sylvain et Pierre sont des amis passionés t'automobile et qui partage leur passion par le biais de leur chaine youtube ou différents concept sont proposé à leur abonnés</p>
     
 ### Quels concept ?
