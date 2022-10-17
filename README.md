@@ -17,3 +17,11 @@ Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](h
 - Un ingrédien **essentiel** : la transition [Yu-Gi-Oh](https://youtu.be/_MnCeDBSbzA) avec un supplément de sponso [NordVPN sur fond vert](https://youtu.be/qzoCQ-XaQfw)
 - Faire des explications claires malgré la complexité du sujet (on pense aux [sigles](https://youtu.be/ljDIMp6uZqs) nottamment)
 - Pensez sourtour à ajouter un peu de pluie pour cela
+
+### Une rapide sélection non exaustive de pétpites qu'ils nous offertent :
+| Date            | Projet                             | Description                                                                         |
+|-----------------|------------------------------------|-------------------------------------------------------------------------------------|
+| 8 octobre 2022  | GP Explorer                        | Participation au GP Explorer organisé par Squeezie                                  |
+| 28 avril 2022   | Dos d'âne 2e édition               | 4 ans plus tard, suite à une vidéo qui à fait leur succès il réitèrent l'expérience |
+| 10 juin 2021    | Drifter en bus                     | Drifter avec c'est mais avec c'est mieux                                            |
+| 21 octobre 2021 | Passer la marche arrière à 130km/h | Nous nous demandions ce qu'étais ce mode racing, nous avons la réponse              |
