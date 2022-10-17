@@ -15,7 +15,7 @@ Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](h
 
 ### Comment faire une vidéo à la Vilebrequin ?
 - Un ingrédien **essentiel** : la transition [Yu-Gi-Oh](https://youtu.be/_MnCeDBSbzA) avec un supplément de sponso [NordVPN sur fond vert](https://youtu.be/qzoCQ-XaQfw)
-- Faire des explications claires malgré la complexité du sujet (__on pense aux [sigles](https://youtu.be/ljDIMp6uZqs) nottamment__)
+- Faire des explications claires malgré la complexité du sujet (_on pense aux [sigles](https://youtu.be/ljDIMp6uZqs) nottamment_)
 - Pensez sourtour à ajouter un peu de pluie pour cela
 
 ### Une rapide sélection non exaustive de pépites qu'ils nous ont offertent :
