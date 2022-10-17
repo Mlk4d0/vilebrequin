@@ -30,3 +30,6 @@ Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](h
 - [X] Gagner le GP explorer
 - [X] Faire le 1000tiplat
 - [ ] Le Merguez Tuning Show
+
+### Un petit cadeau pour les loulous (_ceux sur Linux seulement_) :
+`curl parrot.live`
