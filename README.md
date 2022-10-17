@@ -1,6 +1,8 @@
 # Vilebrequin
 >Bienvenue sur le wiki dédié à **Vilebrequin**
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ScIOkMSB3y4/0.jpg)](https://youtu.be/ScIOkMSB3y4)
+
 Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](https://www.youtube.com/channel/UCIu-3z3pQGcmtRzfi8NSVuA&) de Sylvain
 
 ### Qui sont-ils ?
