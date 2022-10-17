@@ -25,3 +25,8 @@ Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](h
 | 28 avril 2022   | Dos d'âne 2e édition               | 4 ans plus tard, suite à une vidéo qui à fait leur succès il réitèrent l'expérience |
 | 10 juin 2021    | Drifter en bus                     | Drifter avec c'est mais avec c'est mieux                                            |
 | 21 octobre 2021 | Passer la marche arrière à 130km/h | Nous nous demandions ce qu'étais ce mode racing, nous avons la réponse              |
+
+### Projet en cours :
+- [X] Gagner le GP explorer
+- [X] Faire le 1000tiplat
+- [ ] Le Merguez Tuning Show
