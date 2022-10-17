@@ -14,4 +14,6 @@ Leur [chaine YouTube](https://www.youtube.com/c/VilebrequinAuto) et le [frigo](h
 * Le 1000tipla
 
 ### Comment faire une vidéo à la Vilebrequin ?
-Un ingrédien **essentiel** : la transition [Yu-Gi-Oh](https://youtu.be/_MnCeDBSbzA) avec la sponso [NordVPN sur fond vert](https://youtu.be/qzoCQ-XaQfw)
+Un ingrédien **essentiel** : la transition [Yu-Gi-Oh](https://youtu.be/_MnCeDBSbzA) avec un supplément de sponso [NordVPN sur fond vert](https://youtu.be/qzoCQ-XaQfw)
+Faire des explications claires malgré la complexité du sujet (on pense aux [sigles](https://youtu.be/ljDIMp6uZqs) nottamment)
+Pensez sourtour à ajouter un peu de pluie pour cela
